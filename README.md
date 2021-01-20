@@ -1,6 +1,6 @@
 # Representing Point Clouds with Generative Conditional Invertible Flow Networks
 
-Master's thesis written under supervision of dr hab. Jan Chorowski at the University of Wroclaw. Defended on August 2020.
+Master's thesis written under the supervision of dr hab. Jan Chorowski at the University of Wroclaw, and defended on August 2020.
 
 ## Topics covered:
 * Latent variable methods (EM algorithm, VAEs, normalizing flows, GANs)
@@ -9,4 +9,4 @@ Master's thesis written under supervision of dr hab. Jan Chorowski at the Univer
 * Evaluation metrics
 * Our approach - Conditional Invertible Flow (CIF)
 
-You can find our paper and code of CIF in this [repo](https://github.com/MStypulkowski/CIF).
+You can find our paper and PyTorch implementation of CIF in this [repo](https://github.com/MStypulkowski/CIF).
